@@ -3,4 +3,4 @@ JS implementation of conway's game of life
 
 |Preview|
 :-------------------------:
-<img src="./preview.gif" width="800" />
+<img src="./preview.gif" width="600" />
